@@ -32,19 +32,6 @@ Welcome to CryptoBankHub, a microservices project that allows users to manage th
 
 - [Apache Kafka](https://kafka.apache.org/) and [ZooKeeper](https://zookeeper.apache.org/) running.
 
-### Configuration ⚙️
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/iammShariff/CryptoBankHub.git
-    ```
-
-2. Navigate to the `keycloakusermanagement` service and update the `application.yml` file with your Keycloak details.
-
-3. Start Kafka and ZooKeeper services.
-
-4. Run the CryptoBankHub microservices.
 
 ## Usage 🚦
 
